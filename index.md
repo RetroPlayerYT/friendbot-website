@@ -1,37 +1,116 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RetroPlayerYT/friendbot-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RetroPlayerYT/friendbot-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.7  (Win32)">
+	<META NAME="AUTHOR" CONTENT="Rodrigo Oliveira">
+	<META NAME="CREATED" CONTENT="20200913;16375912">
+	<META NAME="CHANGEDBY" CONTENT="Rodrigo Oliveira">
+	<META NAME="CHANGED" CONTENT="20200913;17090728">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 0.79in }
+		P { margin-bottom: 0.08in }
+		A:link { so-language: zxx }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="" DIR="LTR">
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent">
+<FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><FONT SIZE=7 STYLE="font-size: 54pt">FriendBot</FONT>
+      <FONT SIZE=7 STYLE="font-size: 32pt">                       
+</FONT><A HREF="https://discord.com/oauth2/authorize?client_id=748600359433404457&amp;scope=bot&amp;permissions=2146958847"><FONT COLOR="#0084d1"><FONT SIZE=7 STYLE="font-size: 32pt"><SPAN STYLE="text-decoration: none">Set
+Up</SPAN></FONT></FONT></A></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=6 STYLE="font-size: 22pt"><SPAN STYLE="background: transparent">FriendBot
+is a fun discord bot, wich haves fun commands! You can have a quiz! And many
+more! </SPAN></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent">
+<FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 54pt">Commands</FONT></FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent">
+<FONT FACE="Dimbo, sans-serif"><FONT SIZE=6 STYLE="font-size: 28pt"><FONT COLOR="#0084d1"><FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=5>!ping
+&ndash; Makes FriendBot say Pong!</FONT></FONT></FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><FONT COLOR="#0084d1">
+<FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=5>!help &ndash;
+Shows all the commands.</FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><FONT COLOR="#0084d1">
+<FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=5>!game &ndash;
+Starts a quiz about cars!</FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><FONT COLOR="#0084d1">
+<FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=5>!game2 &ndash;
+Starts another quiz about cars!</FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><FONT COLOR="#0084d1">
+<FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=5>!gamehint
+&ndash; Hint for the !game quiz.</FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><FONT COLOR="#0084d1">
+<FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=5>!game2hint
+&ndash; hint for the !game2 quiz.</FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=5><SPAN STYLE="background: transparent"><FONT COLOR="#0084d1"><BR>
+!hi &ndash; Makes FriendBot say hi. </FONT></SPAN></FONT></FONT></FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><FONT COLOR="#0084d1">
+<FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=5>!bye &ndash;
+Make FriendBot say bye.</FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><SPAN STYLE="background: transparent"><FONT SIZE=7 STYLE="font-size: 54pt"><SPAN STYLE="text-decoration: none">Answers
+for the quizzes</SPAN></FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><SPAN STYLE="text-decoration: none">
+<FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=6 STYLE="font-size: 26pt">!game
+:</SPAN></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><SPAN STYLE="text-decoration: none">
+</SPAN><FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=6 STYLE="font-size: 26pt"><FONT COLOR="#0084d1"><FONT SIZE=6 STYLE="font-size: 22pt"><SPAN STYLE="text-decoration: none">!camaro,
+!corvette, !bolt.</SPAN></FONT></FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=6 STYLE="font-size: 26pt"><SPAN STYLE="background: transparent"><SPAN STYLE="text-decoration: none">!game2
+:</SPAN></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent"><SPAN STYLE="text-decoration: none">
+</SPAN><FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=6><FONT COLOR="#0084d1"><SPAN STYLE="text-decoration: none">!roadster</SPAN></FONT></SPAN></FONT></FONT></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+</BODY>
+</HTML>
