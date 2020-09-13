@@ -1,11 +1,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-	</STYLE>
 </HEAD>
 <BODY LANG="" DIR="LTR">
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent">
-<FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><FONT SIZE=7 STYLE="font-size: 54pt">FriendBot</FONT>
-      <FONT SIZE=7 STYLE="font-size: 32pt">                       
-</FONT><A HREF="https://discord.com/oauth2/authorize?client_id=748600359433404457&amp;scope=bot&amp;permissions=2146958847"><FONT COLOR="#0084d1"><FONT SIZE=7 STYLE="font-size: 32pt"><SPAN STYLE="text-decoration: none">Set
+<FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><FONT SIZE=7 STYLE="font-size: 54pt">FriendBot<A HREF="https://discord.com/oauth2/authorize?client_id=748600359433404457&amp;scope=bot&amp;permissions=2146958847"><FONT COLOR="#0084d1"><FONT SIZE=7 STYLE="font-size: 32pt"><SPAN STYLE="text-decoration: none">Set
 Up</SPAN></FONT></FONT></A></SPAN></FONT></FONT></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><BR>
 </P>
