@@ -1,9 +1,57 @@
-FriendBot <A HREF="https://discord.com/oauth2/authorize?client_id=748600359433404457&amp;scope=bot&amp;permissions=2146958847"><FONT COLOR="#0084d1"><FONT SIZE=7 STYLE="font-size: 32pt"><SPAN STYLE="text-decoration: none">Set
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.7  (Win32)">
+	<META NAME="AUTHOR" CONTENT="Rodrigo Oliveira">
+	<META NAME="CREATED" CONTENT="20200913;16375912">
+	<META NAME="CHANGEDBY" CONTENT="Rodrigo Oliveira">
+	<META NAME="CHANGED" CONTENT="20200913;17090728">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 0.79in }
+		P { margin-bottom: 0.08in }
+		A:link { so-language: zxx }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="" DIR="LTR">
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent">
+<FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><FONT SIZE=7 STYLE="font-size: 54pt">FriendBot</FONT>
+      <FONT SIZE=7 STYLE="font-size: 32pt">                       
+</FONT><A HREF="https://discord.com/oauth2/authorize?client_id=748600359433404457&amp;scope=bot&amp;permissions=2146958847"><FONT COLOR="#0084d1"><FONT SIZE=7 STYLE="font-size: 32pt"><SPAN STYLE="text-decoration: none">Set
 Up</SPAN></FONT></FONT></A></SPAN></FONT></FONT></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><BR>
 </P>
-# FriendBot is a fun discord bot, wich haves fun commands! You can have a quiz! And many more!
-
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=6 STYLE="font-size: 22pt"><SPAN STYLE="background: transparent">FriendBot
+is a fun discord bot, wich haves fun commands! You can have a quiz! And many
+more! </SPAN></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent">
 <FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 54pt">Commands</FONT></FONT></SPAN></FONT></FONT></FONT></P>
 <P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
