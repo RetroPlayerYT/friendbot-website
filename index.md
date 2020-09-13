@@ -1,19 +1,4 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.7  (Win32)">
-	<META NAME="AUTHOR" CONTENT="Rodrigo Oliveira">
-	<META NAME="CREATED" CONTENT="20200913;16375912">
-	<META NAME="CHANGEDBY" CONTENT="Rodrigo Oliveira">
-	<META NAME="CHANGED" CONTENT="20200913;17090728">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin: 0.79in }
-		P { margin-bottom: 0.08in }
-		A:link { so-language: zxx }
-	-->
 	</STYLE>
 </HEAD>
 <BODY LANG="" DIR="LTR">
