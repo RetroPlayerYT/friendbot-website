@@ -1,39 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-</HEAD>
-<BODY LANG="" DIR="LTR">
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent">
-<FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><FONT SIZE=7 STYLE="font-size: 54pt">FriendBot<A HREF="https://discord.com/oauth2/authorize?client_id=748600359433404457&amp;scope=bot&amp;permissions=2146958847"><FONT COLOR="#0084d1"><FONT SIZE=7 STYLE="font-size: 32pt"><SPAN STYLE="text-decoration: none">Set
+FriendBot <A HREF="https://discord.com/oauth2/authorize?client_id=748600359433404457&amp;scope=bot&amp;permissions=2146958847"><FONT COLOR="#0084d1"><FONT SIZE=7 STYLE="font-size: 32pt"><SPAN STYLE="text-decoration: none">Set
 Up</SPAN></FONT></FONT></A></SPAN></FONT></FONT></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><FONT FACE="Yu Gothic UI Semibold, sans-serif"><FONT SIZE=6 STYLE="font-size: 22pt"><SPAN STYLE="background: transparent">FriendBot
-is a fun discord bot, wich haves fun commands! You can have a quiz! And many
-more! </SPAN></FONT></FONT></FONT>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
-</P>
+# FriendBot is a fun discord bot, wich haves fun commands! You can have a quiz! And many more!
+
 <P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT COLOR="#c5000b"><SPAN STYLE="background: transparent">
 <FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 60pt"><FONT FACE="Dimbo, sans-serif"><FONT SIZE=7 STYLE="font-size: 54pt">Commands</FONT></FONT></SPAN></FONT></FONT></FONT></P>
 <P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
